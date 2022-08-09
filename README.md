@@ -7,3 +7,17 @@ Created version for Linux Void
 Requires JRE (java runtime) installed
 
 https://jdownloader.org/
+
+Si sale un error de que no puede ejecutarse aún y pidiendo el password, haz lo siguiente
+
+0-Ve a /opt/
+1-sudo chmod 4777 jd2
+
+¡Y ya está!
+
+If you get an error that it can't run yet and asking for the password, do the following
+
+0-Go to /opt/
+1-sudo chmod 4777 jd2
+
+And that's it!
